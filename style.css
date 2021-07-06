@@ -203,26 +203,26 @@ p {
 
 .card-description {
     text-align: left;
-    margin-left: 1.25rem;
+    padding: 0 1.25rem;
 }
 
 /* customer review section styling */
 
-.review{
+.review {
     margin: 13% 0 5% 0;
     position: relative;
     display: flex;
     justify-content: center
 }
 
-.customer-review{
+.customer-review {
     width: 70%;
     box-shadow: 0 0 30px -10px gray;
     border-radius: 25px;
     text-align: center;
 }
 
-.customer-review > p{
+.customer-review>p {
     padding: 2rem 2rem;
 }
 
@@ -232,16 +232,17 @@ p {
     position: absolute;
 } */
 
-.review>img{
+.review>img {
     background-color: #b4b4b4;
     position: absolute;
-    top : -150px;
+    top: -150px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     box-shadow: 0 0 30px -10px gray;
+    border: 3px solid #fba24ffb
 }
 
 /* social section styles */
