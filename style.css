@@ -18,9 +18,7 @@ body {
 }
 
 .highlight {
-    background: linear-gradient(to right, #FBA24F, #FF1E1E);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #FBA24F;
 }
 
 h1 {
@@ -182,10 +180,4 @@ footer {
 
 footer>h1 {
     font-size: 1.9rem;
-}
-
-.footer {
-    background: linear-gradient(to right, #FBA24F, #FF1E1E);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
