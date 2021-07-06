@@ -242,7 +242,7 @@ p {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     box-shadow: 0 0 30px -10px gray;
-    border: 3px solid #fba24ffb
+    border: 3px solid #fba24ffb;
 }
 
 /* social section styles */
